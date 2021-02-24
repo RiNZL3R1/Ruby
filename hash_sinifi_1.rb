@@ -1,0 +1,1 @@
+hash={'anahtar1'=>'deger1','anahtar2'=>'deger2'}
